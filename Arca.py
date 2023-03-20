@@ -33,3 +33,5 @@ DL = pd.DataFrame(data=datalink)
 
 DL.to_csv('ISP_Data.csv')
 
+print(isp)
+print(loc)
