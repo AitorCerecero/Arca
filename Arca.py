@@ -35,3 +35,4 @@ DL.to_csv('ISP_Data.csv')
 
 print(isp)
 print(loc)
+print(speed)
